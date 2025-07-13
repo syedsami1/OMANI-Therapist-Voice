@@ -1,9 +1,12 @@
-google-cloud-speech
-google-auth
-google-api-core
 Flask
 torch
 transformers
 huggingface_hub
+google-cloud-speech
+google-cloud-texttospeech
+google-auth
+google-api-core
 gtts
 pydub
+python-dotenv
+accelerate
