@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+
+# Environments
+venv/
+.env
+
+# Hugging Face + Transformers cache
+.cache/
+offload/
+*.bin
+*.safetensors
+
+# Audio and temp
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# IDEs
+.vscode/
+.idea/
+
+# Others
+.DS_Store

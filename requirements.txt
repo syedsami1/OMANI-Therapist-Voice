@@ -1,0 +1,6 @@
+Flask
+torch
+transformers
+huggingface_hub
+gtts
+pydub
