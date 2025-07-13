@@ -1,4 +1,6 @@
 google-cloud-speech
+google-auth
+google-api-core
 Flask
 torch
 transformers
