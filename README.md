@@ -2,6 +2,9 @@
 
 > An AI-powered voice-only mental health chatbot built for culturally sensitive cognitive behavioral therapy (CBT) in **Omani Arabic**.
 
+> [🎥 **Demo Video**](https://www.veed.io/view/dcf8f543-6327-4fa6-8931-5a62db1634fe?source=editor&panel=share)
+
+
 ![Status](https://img.shields.io/badge/status-MVP%20Complete-brightgreen)
 ![Flask](https://img.shields.io/badge/backend-Flask-blue)
 ![Speech](https://img.shields.io/badge/Speech-Google%20Cloud%20STT%2FTTS-yellow)
